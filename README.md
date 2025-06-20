@@ -35,7 +35,7 @@ The notebook hispanic-voter-analysis.ipynb performs the following analyses:
 imports initial sets of datasets and libraries
 
 #### Part 2: Merge Dataframes
-Marges dataframes
+Merges dataframes
 
 #### Part 3: Analyze population changes
 For each year, finds the percentage of each county's population that is Hispanic/Latino and non-Hispanic/Latino. Does the same for the U.S.-specific data. Then, uses the percent change formula to find how much these populations have changed since the first reporting year (2019).
